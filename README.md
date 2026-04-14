@@ -40,7 +40,7 @@ It acts as a virtual financial advisor.
 
 
 ##  Tech Stack
-* Python 🐍
+* Python 
 * Jupyter Notebook (Anaconda)
 * Rule-based logic (Expert System approach)
 
